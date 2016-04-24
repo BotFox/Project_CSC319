@@ -28,4 +28,4 @@ ToIBank_AccLogin
 
 (PK)statement_number |accdeposite |	accwithdraw |amount |accde_balance |accwi_balance |time |
 ---|---|---|---|---|---|---|
-varchar(10)|varchar(10)|varchar(10)|double|double|timestamp|int(11)|
+varchar(10)|varchar(10)|varchar(10)|double|double|double|timestamp|
